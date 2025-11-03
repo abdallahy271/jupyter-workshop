@@ -30,6 +30,6 @@ For instance, try changing this cell in the browser and see its output!
 
 ``` {figure} figures/bloom.png
 :width: 50%
-:name: fig_myfirstfigure
+:name: bloom
 add file in the folder
 ```
