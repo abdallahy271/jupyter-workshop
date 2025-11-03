@@ -27,3 +27,9 @@ Once you start building JB2 books, it is likely you will get hooked!
 For instance, try changing this cell in the browser and see its output!
 ```
 :::
+
+``` {figure} figures/bloom
+:width: 50%
+:name: fig_myfirstfigure
+add file in the folder
+```
